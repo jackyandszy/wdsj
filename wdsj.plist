@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://img-home.csdnimg.cn/images/20201124032511.png</string>
+					<string>https://raw.githubusercontent.com/jackyandszy/wdsj/master/wdsj.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://img-home.csdnimg.cn/images/20201124032511.png</string>
+					<string>https://raw.githubusercontent.com/jackyandszy/wdsj/master/wdsj.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxxx.demo</string>
+				<string>com.wdsj.demo</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>XXXX App download</string>
+				<string>wdsj App download</string>
 			</dict>
 		</dict>
 	</array>
